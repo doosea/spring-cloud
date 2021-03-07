@@ -11,5 +11,10 @@
         - <packaging>pom</packaging>
     8. maven 中的 dependencyManagement 
         - 定义jar版本， 后面子项目需要jar包，还要子项目中引入
-2. 子模块的建立
-      
+2. 微服务子模块的建立
+    1. 建立module 
+    2. 改pom
+    3. 写yml
+    4. 主启动    
+    5. 业务类
+    
